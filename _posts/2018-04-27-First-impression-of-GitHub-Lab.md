@@ -1,5 +1,5 @@
 ---
-title: First impression of GitHub Lab
+title: "First impression of GitHub Lab"
 date: 2018-04-27
 ---
 
